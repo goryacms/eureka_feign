@@ -1,4 +1,4 @@
-# eureka_feign
+# eureka_feign example
 
 Simple example EUREKA + FEIGN CLIENT
 
